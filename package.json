@@ -1,0 +1,17 @@
+{
+  "name": "chim-automate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "show-report" : "playwright show-report",
+    "start" : "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5"
+  }
+}
